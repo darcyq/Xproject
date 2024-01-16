@@ -1,0 +1,48 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "Simulate",
+    "AssetList": [
+        {
+            "Address": "Prefab_UILoading",
+            "AssetPath": "Assets/res/UI/Prefab/UILoading.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "scene_background1",
+            "AssetPath": "Assets/res/Scene/Main/background1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "defaultpackage_assets_res_ui_prefab.bundle",
+            "UnityCRC": 0,
+            "FileHash": "5b8e8359b33f5a81f7d00e2caf63529e",
+            "FileCRC": "00000000",
+            "FileSize": 7076,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_res_scene_main.bundle",
+            "UnityCRC": 0,
+            "FileHash": "83665f67d2e214d99db97867215f0ee9",
+            "FileCRC": "00000000",
+            "FileSize": 13066,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        }
+    ]
+}
