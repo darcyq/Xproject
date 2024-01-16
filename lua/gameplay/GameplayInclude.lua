@@ -1,5 +1,0 @@
-require ("lua.gameplay.mgr.SceneMgr")
-require ("lua.gameplay.mgr.GamePlayMgr")
-require ("lua.gameplay.mgr.EntityMgr")
-require ("lua.gameplay.mgr.CameraMgr")
-require ("lua.gameplay.mgr.InputMgr")
